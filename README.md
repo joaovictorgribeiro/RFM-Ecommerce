@@ -75,15 +75,15 @@ I calculated the last purchase date in the dataset using the max() function. Thi
 
 To enrich the analysis, I plotted graphs showing:
 
-1)**Top 10 countries by sales value.**
+**1)Top 10 countries by sales value.**
 
-2)**Top 10 best-selling products.**
+**2)Top 10 best-selling products.**
 
-3)**Total sales value per month.**
+**3)Total sales value per month.**
 
-4)**Total sales value per month and by country (considering only the top 10 countries).**
+**4)Total sales value per month and by country (considering only the top 10 countries).**
 
-5)**Step 10: Calculating RFM Metrics**
+**5)Step 10: Calculating RFM Metrics**
 
 I grouped the data by customer and invoice number (InvoiceNo) and calculated the RFM metrics:
 
