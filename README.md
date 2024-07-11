@@ -75,10 +75,13 @@ I calculated the last purchase date in the dataset using the max() function. Thi
 
 To enrich the analysis, I plotted graphs showing:
 
-Top 10 countries by sales value.
-Top 10 best-selling products.
-Total sales value per month.
-Total sales value per month and by country (considering only the top 10 countries).
+**Top 10 countries by sales value.**
+
+**Top 10 best-selling products.**
+
+**Total sales value per month.**
+
+**Total sales value per month and by country (considering only the top 10 countries).**
 
 **Step 10: Calculating RFM Metrics**
 
