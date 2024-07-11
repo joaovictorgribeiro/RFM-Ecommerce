@@ -83,7 +83,7 @@ To enrich the analysis, I plotted graphs showing:
 
 **4)Total sales value per month and by country (considering only the top 10 countries).**
 
-**5)Step 10: Calculating RFM Metrics**
+**Step 10: Calculating RFM Metrics**
 
 I grouped the data by customer and invoice number (InvoiceNo) and calculated the RFM metrics:
 
