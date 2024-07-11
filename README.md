@@ -5,7 +5,7 @@
 
 **Context**
 
-I was hired by an e-commerce company to analyze the Recency, Frequency, and Monetary (RFM) indicators of its customers. RFM analysis is a key marketing technique used to segment customers based on:
+I conducted an analysis for an e-commerce company to calculate the Recency, Frequency, and Monetary (RFM) indicators for its customers. RFM analysis is a key marketing technique used to segment customers based on:
 
 **Recency (R):** Time since the customer's last purchase (in days).
 
